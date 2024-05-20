@@ -1,6 +1,8 @@
 Odin-Recipes
 ============
 
+The published version of this project can be found at: http://brgillis.github.io/odin-recipes
+
 Description
 -----------
 
