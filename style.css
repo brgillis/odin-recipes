@@ -2,7 +2,7 @@ h1,
 h2 {
   font-size: 48px;
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Brush Script MT", cursive, Arial, sans-serif;
   text-align: center;
 }
 
@@ -12,6 +12,7 @@ h1 {
 }
 
 h2 {
+  font-family: Arial, sans-serif;
   font-size: 30px;
   text-align: left;
 }
@@ -30,5 +31,5 @@ p,
 ol,
 ul {
   font-size: 18px;
-  font-family: Garamond, 'Times New Roman', serif;
+  font-family: Georgia, Garamond, 'Times New Roman', serif;
 }
