@@ -1,3 +1,7 @@
+body {
+  background-color: #F5F5DC;
+}
+
 h1,
 h2 {
   font-weight: bold;
@@ -5,18 +9,18 @@ h2 {
 }
 
 h1 {
-  font-size: 64px;
+  font-size: 96px;
   font-family: "Brush Script MT", cursive, Arial, sans-serif;
+  margin: 0px auto 24px auto;
 }
 
 h2 {
   font-family: Arial, sans-serif;
   font-size: 30px;
-  text-align: left;
 }
 
 .main-title {
-  font-size: 64px;
+  font-size: 128px;
 }
 
 img {
@@ -30,4 +34,41 @@ ol,
 ul {
   font-size: 18px;
   font-family: Georgia, Garamond, 'Times New Roman', serif;
+}
+
+ol,
+ul {
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.recipe-list {
+  width: 400px;
+  border: 2px solid #C5C5AC;
+  background-color: #E5E5CC;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 32px;
+}
+
+li {
+  margin: 8px auto;
+}
+
+.ingredient-list {
+  width: 600px;
+  border: 1px solid black;
+  background-color: white;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 32px;
+}
+
+.step-list {
+  width: 800px;
+  border: 1px solid black;
+  background-color: rgb(255, 251, 243);
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 32px;
 }
